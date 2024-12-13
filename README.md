@@ -32,3 +32,8 @@ Ai sim incia a lógica para conexão à rede WiFi aberta com SSID Wokwi-GUEST
 Sexta Etapa:
 É a ultima etapa e configura toda a lógica de acender ou apagar os leds conforme o LDR identifica quando está claro e quando esta escuro
 ![image](https://github.com/user-attachments/assets/9960daf1-567a-4959-875c-1e327ffb0007)
+
+
+Esta é a foto do prototipo ao final do desenvolvimento:
+![image](https://github.com/user-attachments/assets/b861e842-1872-4798-a9d6-31b8d3cfd7bd)
+
